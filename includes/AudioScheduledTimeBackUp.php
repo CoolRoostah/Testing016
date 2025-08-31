@@ -1,5 +1,11 @@
 <?php
-// Include your database connection
+
+// Welcome! Feel Free editing/upgrading this -Salem 8/31/25
+
+
+
+
+// Including the database connection (this is the only file not available to folk; the database connection. For security purposes; that's kept private. -Salem)
 include "db.Conn.Ver01.php";
 
 // Enable error reporting for debugging

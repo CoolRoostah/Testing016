@@ -1,4 +1,9 @@
 <?php
+
+
+// DO NOT TOUCH THIS CODE! PLEASE 'go to '.github/workflows/deploy.yml' and read "Part A to B" to learn what this 'functions page' does (found in the "Folder 2" explanation (A.2)) -Salem on 8/31/25
+
+
 // Enqueue parent theme styles
 function enqueue_parent_styles() {
     wp_enqueue_style( 'parent-style', get_template_directory_uri() . '/style.css' );

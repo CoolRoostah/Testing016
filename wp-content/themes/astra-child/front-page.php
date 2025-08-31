@@ -1,4 +1,9 @@
 <?php
+
+
+// Welcome! Feel Free editing/upgrading this -Salem 8/31/25
+
+
 require 'includes/db.Conn.Ver01.php'; // This line of code includes the database connection script.
 
 if(isset($_POST["submit1"])) { // Check if the registration form was submitted.

@@ -1,4 +1,9 @@
 <?php //this php file failed (cause my stuff is on timers and this didnt work). it was removed but it was part of "MergeThisVersion050.01"
+
+
+// Welcome! Feel Free editing/upgrading this -Salem 8/31/25
+
+
 include "db.Conn.Ver01.php";
 
 // Fetch entries that are still within 14 days of their scheduled play date
