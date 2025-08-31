@@ -1,7 +1,7 @@
 <?php
 
 
-// Welcome! Feel Free editing/upgrading this -Salem 8/31/25
+// CONGRATS! YOU FOUND 'THE MAIN CODE!' Welcome! Feel Free editing/upgrading this. THiS IS THE MAIN CODE THAT BUILDS UP OUR WHOLE WEBSITE "uminion.com" whatever you modify here; will modify our website. try not to break it! Try to upgrade it! build your own pages off of it to practice your own code! its a site for you to get good at coding/programming so enjoy! if something breaks; and you dont know how to 'go back' THATS OKAY! let us know in Union Tech #18 and we can help! This is a place for you to "Help make uminion.com the next best social media website out there for _______" and you can just make it like so! have fun! build something great! Practice getting your coding experience in! Any questions- just ask! -Salem 8/31/25
 
 
 require 'includes/db.Conn.Ver01.php'; // This line of code includes the database connection script.
